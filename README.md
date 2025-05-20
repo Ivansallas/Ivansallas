@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Ivan Sallas!
+# 👋 Olá, eu sou o Ivan Dos Reis Sallas!
 
 ## 👨‍🏫 Sobre mim
 Sou **professor de programação** com experiência em diversas linguagens e tecnologias. Antes de trilhar meu caminho no ensino de TI, atuei na área de manutenção industrial como eletricista, desenvolvendo conhecimento sólido em instrumentação e atualmente unindo esses saberes ao universo da tecnologia da informação, especialmente voltada à área elétrica.
