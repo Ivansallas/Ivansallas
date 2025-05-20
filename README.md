@@ -8,7 +8,7 @@ Sou **professor de programação** com experiência em diversas linguagens e tec
 - **Frameworks & Ferramentas:** Flutter, Banco de Dados
 
 ## 🌟 Projeto em destaque
-- [**PageCofe**](https://github.com/Ivansallas/pagecofe)  
+- [**PageCofe**]([https://github.com/Ivansallas/pagecofe](https://ivansallas.github.io/PageCafe/))  
   Projeto favorito que destaca minha paixão pelo desenvolvimento e ensino prático.
 
 ## 🎮 Curiosidades
